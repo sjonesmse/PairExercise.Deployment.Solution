@@ -24,4 +24,4 @@ before_script:
    provider: heroku
    app: secret-sea-19826 # see README
    api_key:
-     secure: jpbVpR6M6KTrq+xTmaPI6uLZ0T6qzJnUzMRfExeQS4Ndk+bj1nmjTWbl+nOpsIAGAvOU/36PpY8P
+     secure: jZbKSmGd4faNRdyGQfbpzY1U0A18bk7IbKadfiydm36F0uoQIOd2fDSg2dyaJaEqoOUTPRJM/PU=
